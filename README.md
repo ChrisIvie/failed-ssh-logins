@@ -1,4 +1,4 @@
-# VirusTotal-auth.log
+# Failed SSH logins
 Ever wonder who's trying to brute force login into your server? 
 
 This tool sends these IP's to the Virus total API. 
