@@ -1,0 +1,48 @@
+#domResult{
+    font-size:1px;
+    
+}
+
+#scanTotal{
+    font-size: 15px;
+
+}
+
+.list-group{
+    max-height: 700px;
+    margin-bottom: 10px;
+    overflow-y:auto;
+    -webkit-overflow-scrolling: touch;
+}
+.progress{
+    width:74px;
+}
+
+#Scan-result-google img{
+ width:20px;
+ height:20px;
+}
+
+#Scan-result-bit img{
+    width:20px;
+    height:20px;
+   }
+
+   #Scan-result-sophos img{
+    width:30px;
+    height:30px;
+   }
+
+   .container{
+    margin-top:10px;
+}
+
+#subDomains, .showme{
+  font-size: 16px;
+  display: block;
+
+ }
+
+#subDomains{
+    display:none;
+}
