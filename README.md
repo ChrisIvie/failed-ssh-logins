@@ -14,9 +14,11 @@ egrep 'Failed password for invalid' /var/log/auth.log | awk '{print $13}'
 ```
 Generating the Virus Total API keys: 
 Login or create an account on Virus total, once logged in click on your name in the top right > API key.
-![Alt text](https://i.imgur.com/fa83tXm.png)
 
 Note: This API is limited, 4 request per minute.
+
+
+![Alt text](https://i.imgur.com/fa83tXm.png)
 
 Once you have replaced the API key in ip-scan.py you will simply run ``` python3 ip-scan.py ```
 
